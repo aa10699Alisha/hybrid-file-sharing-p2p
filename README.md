@@ -40,8 +40,5 @@ The system consists of:
 
 ---
 
-## Demo
-A video demonstration is available in the `/demo` folder.
-
 ## Report
 Detailed design and implementation explanation is available in the `/report` folder.
